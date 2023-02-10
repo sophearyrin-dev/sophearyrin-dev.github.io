@@ -408,6 +408,12 @@ section .container {
   color: #18d26e;
 }
 
+.about-me .content h4 {
+  font-weight: 700;
+  font-size: 20px;
+  color: #18d26e;
+}
+
 .about-me .content ul {
   list-style: none;
   padding: 0;
